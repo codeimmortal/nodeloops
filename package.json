@@ -1,0 +1,30 @@
+{
+  "name": "nodeloops",
+  "version": "0.0.1",
+  "description": "It is a loop mechanism by which you can work on for loop in asyn manner",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/awesomehimanshu/nodeloops.git"
+  },
+"homepage": "https://github.com/awesomehimanshu/nodeloops",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  },
+  "keywords": [
+    "node",
+    "loop",
+    "for",
+    "asyn",
+    "nodeloops",
+    "npm"
+  ],
+  "author": "Himanshu sharma",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/awesomehimanshu/nodeloops/issues"
+  }
+}
