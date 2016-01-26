@@ -1,6 +1,6 @@
 {
   "name": "nodeloops",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "It is a loop mechanism by which you can work on for loop in asyn manner",
   "main": "index.js",
   "scripts": {

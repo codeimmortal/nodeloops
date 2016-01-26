@@ -4,7 +4,7 @@ This node module is develop because when you have large iteration to do in node 
 
 ## Installation
 
-To install `lupus` using [npm](https://www.npmjs.org/), simply run:
+To install `nodeloops` using [npm](https://www.npmjs.org/), simply run:
 
 ```console
 $ npm install nodeloops
