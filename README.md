@@ -12,7 +12,7 @@ $ npm install nodeloops
 
 ## How to use
 
-If you have installed `nodeloops`, you can use it to  asynchronously even if you have crore of record in your for loop.
+If you have installed `nodeloops`, you can use it for asynchronously loop.
 
 
 ```javascript
@@ -37,9 +37,9 @@ nodeloops.fastforloops(function (next) {
         }
     );
 
-we made several cron job type task which run asynchronously and manupulate large for loops and even some time we need to our
-for loop to stay their inside loop then excute so for that i have give microsecond parameter so that you can perform task easily and on time 
-which you require . If you not need that simply place 0 (ZERO) in it.  
+we made several cron job type task which run asynchronously and manupulate large loops and even some time we need to our
+for loop to stay in loop then excute .So for that i have give microsecond parameter so that you can perform task easily and on time 
+which you require . If you don't need that simply place 0 (ZERO) in microsecond.  
 // this is a function run as fast you want it to run 
 
 // put microsecond 0 if you dont want . It will not crash even the loop is huge in iteration
