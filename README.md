@@ -39,7 +39,7 @@ nodeloops.fastforloops(function (next) {
 
 we made several cron job type task which run asynchronously and manupulate large loops and even some time we need to our
 for loop to stay in loop then excute .So for that i have give microsecond parameter so that you can perform task easily and on time 
-which you require . If you don't need that simply place 0 (ZERO) in microsecond.  
+which you require . If you dont need that simply place 0 (ZERO) in microsecond.  
 // this is a function run as fast you want it to run 
 
 // put microsecond 0 if you dont want . It will not crash even the loop is huge in iteration
